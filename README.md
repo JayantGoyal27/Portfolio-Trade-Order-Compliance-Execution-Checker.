@@ -185,7 +185,7 @@ python --version
 ### Clone or Download
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/JayantGoyal27/Portfolio-Trade-Order-Compliance-Execution-Checker..git>
 cd trade-compliance-checker
 ```
 
