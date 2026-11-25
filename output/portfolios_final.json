@@ -1,0 +1,33 @@
+{
+    "POR001": {
+        "cash_balance": 28500.0,
+        "restricted_securities": [
+            "XYZCORP"
+        ],
+        "max_position_pct": 0.25,
+        "current_holdings": [
+            {
+                "security_id": "AAPL",
+                "quantity": 580.0,
+                "market_price": 150.0
+            },
+            {
+                "security_id": "INFY",
+                "quantity": 10.0,
+                "market_price": 1500.0
+            }
+        ]
+    },
+    "POR002": {
+        "cash_balance": 40000.0,
+        "restricted_securities": [],
+        "max_position_pct": 0.3,
+        "current_holdings": [
+            {
+                "security_id": "GOOGL",
+                "quantity": 15.0,
+                "market_price": 2000.0
+            }
+        ]
+    }
+}

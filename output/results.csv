@@ -1,0 +1,21 @@
+portfolio_id,security_id,decision,reason
+POR001,AAPL,Approved,Trade approved.
+POR001,AAPL,Approved,Trade approved.
+POR001,TCS,Approved,Trade approved.
+POR001,TCS,Rejected,Insufficient holdings to sell.
+POR001,XYZCORP,Rejected,Security is restricted for this portfolio.
+POR001,AAPL,Needs Manual Sign-off,Exceeds maximum position concentration — requires approval.
+POR001,AAPL,Rejected,Invalid trade data.
+POR001,INFY,Approved,Trade approved.
+POR002,GOOGL,Needs Manual Sign-off,Exceeds maximum position concentration — requires approval.
+POR003,BADCO,Rejected,Portfolio not found.
+POR003,TCS,Rejected,Portfolio not found.
+POR003,INFY,Rejected,Portfolio not found.
+POR003,RELIANCE,Rejected,Portfolio not found.
+POR003,RELIANCE,Rejected,Portfolio not found.
+POR004,GOOGL,Rejected,Portfolio not found.
+POR004,AAPL,Rejected,Portfolio not found.
+POR005,PENNY1,Rejected,Portfolio not found.
+POR005,AAPL,Rejected,Portfolio not found.
+POR005,AAPL,Rejected,Portfolio not found.
+POR005,TCS,Rejected,Portfolio not found.
